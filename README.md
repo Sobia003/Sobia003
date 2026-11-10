@@ -20,13 +20,51 @@ I enjoy exploring how AI agents, APIs, and automation tools can work together to
 - **AI Concepts:** RAG, Embeddings, Multi-Agent Systems
 - **Databases & Vector Search:** Supabase, Vector Stores
 - **Integration:** REST APIs, Webhooks, JSON
+- **CRM & Automation:** HubSpot
 
 ### 📂 Featured Projects
 
-**AI Research – RAG & Multi-Agent System**
+**1. AI Research – RAG & Multi-Agent System**
 - Document Ingestion: PDF extraction, text splitting, embeddings, and vector storage.
 - RAG Retrieval: Semantic search and context-grounded AI responses.
 - Multi-Agent System: Exploring collaboration between multiple AI agents.
+
+🔗 [View Repository](https://github.com/Sobia003/ai-research-rag-multi-agent-system)
+
+**2. Autonomous HubSpot Lead Follow-up Agent**
+- Evaluates and scores CRM leads using AI.
+- Prioritizes leads and recommends follow-up actions.
+- Generates personalized email drafts using Google Gemini.
+
+🔗 [View Repository](https://github.com/Sobia003/04-autonomous-lead-follow-up-agent)
+
+**3. Travel Agency AI Booking Agent**
+- Conversational AI agent for tour inquiries and bookings.
+- Checks tour availability and manages booking records.
+- Integrates Stripe payment links and automated email confirmations.
+
+🔗 [View Repository](https://github.com/Sobia003/travel-agency-ai-booking-agent)
+
+**4. Doctor Appointment Automation**
+- Automates appointment booking and payment processing.
+- Integrates Google Sheets, Stripe, Gmail, and Google Calendar.
+- Updates booking status after successful payment.
+
+🔗 [View Repository](https://github.com/Sobia003/doctor-appointment-automation)
+
+**5. Lead Management System**
+- Captures and validates incoming leads through webhooks.
+- Creates HubSpot contacts and deals.
+- Assigns sales representatives and sends automated email notifications.
+
+🔗 [View Repository](https://github.com/Sobia003/lead-management-system)
+
+**6. Reminder AI Chat Assistant**
+- Creates calendar reminders through natural-language chat.
+- Lists and updates existing Google Calendar events.
+- Handles date and time interpretation using the Asia/Karachi timezone.
+
+🔗 [View Repository](https://github.com/Sobia003/reminder-ai-chat-assistant)
 
 ### 🌱 Currently Learning
 - Advanced AI Agent Development
@@ -45,15 +83,4 @@ I enjoy exploring how AI agents, APIs, and automation tools can work together to
 
 <!--
 **Sobia003/Sobia003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
